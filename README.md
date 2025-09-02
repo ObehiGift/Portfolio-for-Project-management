@@ -4,7 +4,7 @@ As an aspiring project manager with a background in civil engineering, I set out
 This portfolio captures how i applied real-world project management tools, methodologies, and decision-making frameworks across multiple project stages. From planning and budgeting to execution, this journey demonstrates my ability to manage complexity while remaining outcome-driven.
 
 ## 🔎Phase 1: Why Build?
-Every project needs a strong foundation, not just physically, but strategically. In this phase I crafted a [Business Case](https://github.com/ObehiGift/Portfolio-for-Project-management/blob/main/Business%20Case.pdf) that justified the need for the bungalow. I analyzed the potential use cases, estimated high-level costs and potentail alternatives.
+Every project needs a strong foundation, not just physically, but strategically. In this phase I crafted a [Business Case](https://github.com/ObehiGift/Portfolio-for-Project-management/blob/main/Business%20Case.pdf) that justified the need for the bungalow. I analyzed the potential use cases, estimated high-level costs and potential alternatives.
 This helped clarify:
 - The project's objectives
 - Expected benefits
@@ -40,7 +40,7 @@ Construction plan can easily go over budget, so i created a [Budget Plan](https:
 - Contingency
 
 ## 📈Phase 6: Project Monitoring
-Montoting the progress of a project is key to determining if the project is behinf schedule or on schedule. To monitor progress, i built a [Project Tracker](https://github.com/ObehiGift/Portfolio-for-Project-management/blob/main/Project%20tracker.xlsx) that marks each phase as complete, in-progress or not started. This tool helped simulate real-world project monitoring.
+Monitoring the progress of a project is key to determining if the project is behind schedule or on schedule. To monitor progress, I built a [Project Tracker](https://github.com/ObehiGift/Portfolio-for-Project-management/blob/main/Project%20tracker.xlsx) that marks each phase as complete, in-progress or not started. This tool helped simulate real-world project monitoring.
 
 ## 🛠Tools Used
 - **Microsoft Project** - For scheduling and timelines
@@ -50,6 +50,6 @@ Montoting the progress of a project is key to determining if the project is behi
 
 ## 🚀What This Project Demonstrate
 - My ability to **plan and organize** a construction project from start to finish
-- Competence in using **professional tools** like MS projec and Excel
+- Competence in using **professional tools** like MS project and Excel
 - Understanding of **key PM concepts** like scope, scheduling and tracking
 - Initiative and **self-driven learning** in simulating a real-world project independently
