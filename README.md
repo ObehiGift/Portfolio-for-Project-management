@@ -40,7 +40,7 @@ Construction plan can easily go over budget, so i created a [Budget Plan](https:
 - Contingency
 
 ## 📈Phase 6: Project Monitoring
-Montoting the progress of a project is key to determining if the project is behinf schedule or on schedule. To monitor progress, i built a [Project Tracker]() that marks each phase as complete, in-progress or not started. This tool helped simulate real-world project monitoring.
+Montoting the progress of a project is key to determining if the project is behinf schedule or on schedule. To monitor progress, i built a [Project Tracker](https://github.com/ObehiGift/Portfolio-for-Project-management/blob/main/Project%20tracker.xlsx) that marks each phase as complete, in-progress or not started. This tool helped simulate real-world project monitoring.
 
 ## 🛠Tools Used
 - **Microsoft Project** - For scheduling and timelines
