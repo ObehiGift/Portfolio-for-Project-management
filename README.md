@@ -33,8 +33,23 @@ Each phase was further decomposed into smaller tasks and deliverables, making it
 Once the scope and tasks were defined, I created a [Project Plan](https://github.com/ObehiGift/Portfolio-for-Project-management/blob/main/Project%20Plan.pdf) that outlined each stages showing the objective, key activities, deliverables, duration, parties involved and the criteria for success in each stage of the project. I also used Microsoft Project to plan the schedule and set dependencies. I created an [Activity Plan](https://github.com/ObehiGift/Portfolio-for-Project-management/blob/main/Activity.mpp) which mapped out all project activities, logically sequenced by construction stage (site prep, foundation, structural work, finishing etc.). The [Gantt Chart](https://github.com/ObehiGift/Portfolio-for-Project-management/blob/main/Gantt%20Chart.xlsx) will show the how my project flows from start to finish. Where dates of each activity is visually shown and which activities run simultaneously.
 
 ## 💰Phase 5: Budgeting
-Construction plan can easily go over budget, so i created a [Budget Plan]() which estimated project costs using a summarized budget covering
+Construction plan can easily go over budget, so i created a [Budget Plan](https://github.com/ObehiGift/Portfolio-for-Project-management/blob/main/Budget%20Plan.pdf) which estimated project costs using a summarized budget covering
 - Materials
 - Labor
 - Equipment
 - Contingency
+
+## 📈Phase 6: Project Monitoring
+Montoting the progress of a project is key to determining if the project is behinf schedule or on schedule. To monitor progress, i built a [Project Tracker]() that marks each phase as complete, in-progress or not started. This tool helped simulate real-world project monitoring.
+
+## 🛠Tools Used
+- **Microsoft Project** - For scheduling and timelines
+- **Microsoft Word** - For reports and documentation
+- **Excel** - For tracking progress
+- **Markdown and Github** - For presenting the project in a clean and accessible format
+
+## 🚀What This Project Demonstrate
+- My ability to **plan and organize** a construction project from start to finish
+- Competence in using **professional tools** like MS projec and Excel
+- Understanding of **key PM concepts** like scope, scheduling and tracking
+- Initiative and **self-driven learning** in simulating a real-world project independently
