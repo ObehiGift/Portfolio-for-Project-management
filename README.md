@@ -29,5 +29,12 @@ To avoid getting overwhelmed, I broke the project into manageable components usi
 
 Each phase was further decomposed into smaller tasks and deliverables, making it easier to assign resources, estimate time, and track progress.
 
-## 🕒Planning the Work
-Once the scope and tasks were defined, I created a [Project Plan](https://github.com/ObehiGift/Portfolio-for-Project-management/blob/main/Project%20Plan.pdf) that outlined each stages showing the objective, key activities, deliverables, duration, parties involved and the criteria for success in each stage of the project. I also used Microsoft Project to plan the schedule and set dependencies. I created an [Activity Plan](https://github.com/ObehiGift/Portfolio-for-Project-management/blob/main/Activity.mpp) which mapped out all project activities, logically sequenced by construction stage (site prep, foundation, structural work, finishing etc.). The [Gantt Chart]() will show the how my project flows from start to finish. Where dates of each activity is visually shown and which activities run simultaneously.
+## 🕒Phase 4: Planning the Work
+Once the scope and tasks were defined, I created a [Project Plan](https://github.com/ObehiGift/Portfolio-for-Project-management/blob/main/Project%20Plan.pdf) that outlined each stages showing the objective, key activities, deliverables, duration, parties involved and the criteria for success in each stage of the project. I also used Microsoft Project to plan the schedule and set dependencies. I created an [Activity Plan](https://github.com/ObehiGift/Portfolio-for-Project-management/blob/main/Activity.mpp) which mapped out all project activities, logically sequenced by construction stage (site prep, foundation, structural work, finishing etc.). The [Gantt Chart](https://github.com/ObehiGift/Portfolio-for-Project-management/blob/main/Gantt%20Chart.xlsx) will show the how my project flows from start to finish. Where dates of each activity is visually shown and which activities run simultaneously.
+
+## 💰Phase 5: Budgeting
+Construction plan can easily go over budget, so i created a [Budget Plan]() which estimated project costs using a summarized budget covering
+- Materials
+- Labor
+- Equipment
+- Contingency
